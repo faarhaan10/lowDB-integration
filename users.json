@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "name": "elias",
+      "designation": "instructor"
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "name": "elias",
+      "designation": "instructor"
+    },
+    {
+      "id": 1,
+      "name": "elias",
+      "designation": "instructor"
+    },
+    {
+      "id": 2,
+      "name": "elias",
+      "designation": "instructor"
+    },
+    {
+      "id": 3,
+      "name": "elias",
+      "designation": "instructor"
+    },
+    {
+      "id": 4,
+      "name": "elias",
+      "designation": "instructor"
+    },
+    {
+      "id": 5,
+      "name": "elias",
+      "designation": "instructor"
+    }
+  ]
+}
